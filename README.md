@@ -1,8 +1,8 @@
 # Hi! I'm Aorsini 👋
 
-I am a Computer Engineering student passionate about software development, aiming to become a Full Stack developer. I am enthusiastic about innovating, creating solutions, and solving problems.
+I am a Computer Engineering student passionate about software development, aiming to become a Full Stack developer. I enjoy innovating, creating solutions, and solving problems.
 
-I am also the official maintainer of **Moonlight for PS Vita** ([vita-moonlight](https://github.com/xyzz/vita-moonlight)), the PlayStation Vita port of Moonlight.
+I maintain a few open‑source projects; among them I'm the official maintainer of **Moonlight for PS Vita** ([vita-moonlight](https://github.com/xyzz/vita-moonlight)) and I collaborate on other community efforts.  Some of my work revolves around Moonlight itself and related libraries such as **libmoonmic**.
 
 ## 🌱 Currently Learning and Exploring
 
@@ -14,16 +14,10 @@ My main goal right now is to learn programming sólidosly and efficiently. I am 
 
 ## 🚀 My Projects
 
-Here's a project I've been working on:
-
 *   **[ime_test_psvita](https://github.com/AorsiniYT/ime_test_psvita)**: A unit test for advanced IME (virtual keyboard) handling on the PS Vita, developed with the new community SDK. This project detects and classifies keyboard events, simulates sending these events, and manages the caret and input buffer.
 *   **[vita-moonlight-motion](https://github.com/AorsiniYT/vita-moonlight-motion)**: Vita Moonlight Motion is a PlayStation Vita port of Moonlight, with major improvements for usability, pairing, device management, and now advanced touch and multitouch support.
-
-## ✨ Recent Contributions
-
-I am starting to contribute to projects that I find interesting and useful, especially if they are tools that could help me in my own learning and development journey.
-
-*   **[borealis/pull/105](https://github.com/xfangfang/borealis/pull/105)**: A small contribution to add icons and improve the user interface in Borealis.
+*   **[hachimi-tl-es](https://github.com/AorsiniYT/hachimi-tl-es)**: Repositorio de traducción al español de UmaTL para *Umamusume: Pretty Derby* en formato Hachimi.
+*   **[libmoonmic](https://github.com/AorsiniYT/libmoonmic)**: Cross-platform microphone capture library for Moonlight clients with UDP transmission to host; used by **[vita-moonlight](https://github.com/xyzz/vita-moonlight)** and other Moonlight ports.
 
 ## 📫 How to reach me
 
