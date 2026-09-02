@@ -4,14 +4,6 @@ I am a Computer Engineering student passionate about software development, aimin
 
 I maintain a few open‑source projects; among them I'm the official maintainer of **Moonlight for PS Vita** ([vita-moonlight](https://github.com/xyzz/vita-moonlight)) and I collaborate on other community efforts.  Some of my work revolves around Moonlight itself and related libraries such as **libmoonmic**.
 
-## 🌱 Currently Learning and Exploring
-
-My main goal right now is to learn programming sólidosly and efficiently. I am focused on building and strengthening my knowledge in:
-
-*   Python 🐍 (Basic level)
-*   C (Basic level)
-*   C++ (Basic level)
-
 ## 🚀 My Projects
 
 *   **[ime_test_psvita](https://github.com/AorsiniYT/ime_test_psvita)**: A unit test for advanced IME (virtual keyboard) handling on the PS Vita, developed with the new community SDK. This project detects and classifies keyboard events, simulates sending these events, and manages the caret and input buffer.
