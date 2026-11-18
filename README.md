@@ -7,9 +7,8 @@ I maintain a few open‑source projects; among them I'm the official maintainer 
 ## 🚀 My Projects
 
 *   **[ime_test_psvita](https://github.com/AorsiniYT/ime_test_psvita)**: A unit test for advanced IME (virtual keyboard) handling on the PS Vita, developed with the new community SDK. This project detects and classifies keyboard events, simulates sending these events, and manages the caret and input buffer.
-*   **[vita-moonlight-motion](https://github.com/AorsiniYT/vita-moonlight-motion)**: Vita Moonlight Motion is a PlayStation Vita port of Moonlight, with major improvements for usability, pairing, device management, and now advanced touch and multitouch support.
 *   **[hachimi-tl-es](https://github.com/AorsiniYT/hachimi-tl-es)**: Repositorio de traducción al español de UmaTL para *Umamusume: Pretty Derby* en formato Hachimi.
-*   **[libmoonmic](https://github.com/AorsiniYT/libmoonmic)**: Cross-platform microphone capture library for Moonlight clients with UDP transmission to host; used by **[vita-moonlight](https://github.com/xyzz/vita-moonlight)** and other Moonlight ports.
+*   **[moonmic](https://github.com/AorsiniYT/moonmic)**: Cross-platform microphone capture library for Moonlight clients with UDP transmission to host; used by **[vita-moonlight](https://github.com/xyzz/vita-moonlight)** and other Moonlight ports.
 
 ## 📫 How to reach me
 
